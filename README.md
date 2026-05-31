@@ -3,7 +3,7 @@
 Exploratory data analysis and feature selection on the Heart Disease dataset
 to identify the most significant features for predicting heart disease.
 
-## 📖 View Notebook
+##  View Notebook
 GitHub may not render the notebook preview directly.
 To view the full notebook with outputs, open it in Google Colab
 
