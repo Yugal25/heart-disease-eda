@@ -3,6 +3,12 @@
 Exploratory data analysis and feature selection on the Heart Disease dataset
 to identify the most significant features for predicting heart disease.
 
+## 📖 View Notebook
+GitHub may not render the notebook preview directly.
+To view the full notebook with outputs, open it in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yugal25/heart-disease-eda/blob/main/heart_disease_eda.ipynb)
+
 ## Objective
 Identify the most relevant features that influence heart disease
 using statistical methods before building a prediction model.
