@@ -7,11 +7,6 @@ to identify the most significant features for predicting heart disease.
 Identify the most relevant features that influence heart disease
 using statistical methods before building a prediction model.
 
-## Dataset
-- **Source:** [Heart Failure Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-- **Rows:** 918 patients
-- **Target:** `HeartDisease` (0 = No, 1 = Yes)
-
 ##  What's Inside
 - Data cleaning & preprocessing
 - Feature engineering (IsOld, HeartWork, CholesterolLevel, etc.)
